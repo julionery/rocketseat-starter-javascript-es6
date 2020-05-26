@@ -1,0 +1,17 @@
+{
+  "name": "rocketseat-curso-javascript-es6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JulioNery/rocketseat-curso-javascript-es6.git",
+  "author": "Júlio Nery <julio_cesar.an@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/plugin-proposal-object-rest-spread": "^7.9.6",
+    "@babel/preset-env": "^7.9.6"
+  },
+  "scripts": {
+    "dev": "babel ./main.js -o ./bundle.js -w"
+  }
+}
