@@ -2,9 +2,11 @@
 
 Projeto do Curso de JavaScript ES6 da [Rocketseat](https://rocketseat.com.br/ "Rocketseat")
 
-Tecnologias e ferramentas utilizadas:
+Tecnologias, ferramentas e bibliotecas utilizadas:
 - JavaScript ES6
 
-- Yarn
+- [Yarn](https://yarnpkg.com/)
 - Babel
 - Webpack
+
+- [Axios](https://github.com/axios/axios)
