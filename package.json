@@ -12,6 +12,7 @@
     "@babel/preset-env": "^7.9.6"
   },
   "scripts": {
-    "dev": "babel ./main.js -o ./bundle.js -w"
+    "dev": "babel ./main.js -o ./bundle.js -w",
+    "desafio1": "babel ./desafio1.js -o ./bundleDesafio1.js -w"
   }
 }
